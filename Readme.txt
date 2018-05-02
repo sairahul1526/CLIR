@@ -12,6 +12,8 @@ clir.py
 Documentation.docx
 README.md
 
+Get the training files here : https://drive.google.com/drive/folders/1ExONBQWl4WXXys_lx37L8RvEmZfkGQtM?usp=sharing
+
 Compiling and Running the Code:
 Open the clir.py using IDLE (Python 3.5). Press F5 to run the code. The program prompts the user to either train the model or enter a file path to translate text documents.
 
